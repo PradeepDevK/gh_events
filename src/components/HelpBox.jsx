@@ -16,4 +16,6 @@ HelpBox.propTypes = {
   text: string,
 };
 
+// Comment Skipping Workflow
+
 export default HelpBox;
